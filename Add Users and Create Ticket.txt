@@ -1,0 +1,26 @@
+Add Users and Create Ticket
+
+1. Add Users
+
+- Go to the “Settings”. Under “Organization”, click on the name of the Company that was created.  (Ref. CompanyImage.jpg).
+- After that, go to “User Management” and click Add User at the top right of the screen.
+- There will be prompts to put in First Name, Last Name, Email, and phone number.
+- Whatever information can be put in, but make sure the email works or else that email will not be able to send a ticket.
+- After that information is input, click “Add User”.
+- Add as many users as needed.
+
+Note: This is optional, but in User Portal- if you want unassigned emails to make a ticket. Then you can click on Guest User Allowed.  However, this is a security concern as well because you may be at risk for phishing attempts. (Ref. GuestUserAllowed.jpg)
+
+2. Accessing the Portal
+
+- Now it’s time to create the first ticket!!!! In “Settings”, under “General”, copy and paste the Portal URL.
+- This is how the screen should look like (Ref. ticketing_screen.jpg).
+- A login link will be emailed whatever email is put in as long as it correlates with a user in the domain. 
+- Click on it. It will say “Log in to the portal”
+
+3. Creating Ticket
+
+- Once you are in the portal, click on “Submit a Ticket” on the top.
+- It will ask for a summary, description, and to attach a file(optional).
+- Fill in those areas and click on Submit.  (Ref. SampleTicket.jpg)
+- To access the newly created ticket, go to the Tickets tab on the admin account, and the ticket will be displayed (Ref. Tickets_tab.jpg)

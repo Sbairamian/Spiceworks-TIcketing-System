@@ -1,0 +1,26 @@
+Solving First Ticket
+
+1. Exploring the Ticket Interface
+
+- Click on the ticket, and it will open up towards the bottom of the page.
+- Practice responding to the ticket and talking with the person who created the ticket.  
+- They can respond back to person who is in charge of the ticket through email.
+- On the right, there are options to set the priority, tasks have been done or are needed to be done, the amount of time spent on it, CC other users/admin, and other options.   
+- Try out these options to become more acquainted with the ticketing system. 
+
+2. Creating Documentation and Solving Ticket
+
+- It is time to create documentation.  Start up a text editor such as notepad++, Word, etc.
+- Create a document and document the steps it took to troubleshoot the problem.
+- When documenting:
+	a. Input user, device, and general information at the top
+	b. A description of a problem
+	c. A resolution if one was reached
+	d. List the steps taken in troubleshooting these steps.  
+
+- There are sample documentations that can be viewed for help with documenting (Ref. School_Account_Practice_Documentation.txt and Can’t_Log_In_Practice.txt)
+- At the bottom, where it says public response, click on the drop down to create an internal note.  
+- These are notes that are  private and can only be seen by the person in charge of the ticket. Click on the “attach a file” to upload ticketing documentation. 
+- After everything is done with the ticket, click on the “Close” button on the ticket.
+
+Closing Comment: There is so much more that can be done with Spiceworks.  This is just scratching the surface. Feel free to check out all other features on Spiceworks
