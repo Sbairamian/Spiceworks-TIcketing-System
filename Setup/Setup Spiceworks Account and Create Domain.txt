@@ -1,0 +1,24 @@
+Setting up Spiceworks Account and Domain
+
+1. Setting up a Spiceworks Account
+
+- Go to spiceworks website and create an account. To do this click on join on the top right.
+- It will ask for email and a password.  
+- After inputting those things, it will send a confirmation email. Confirm that email and click “Activate My Account”.
+- Fill in the required parts.
+
+2. Setting up Test Company
+ 
+- Type in Company Name. It can be any name. Example: Test Company.  
+- For community username, type own username (example: JSmith) or go with the default username created by Spiceworks 
+- Complete the on-screen prompts.  
+- Account is created. Now it’s time to set up the ticketing system.
+
+3. Setting up Domain
+
+- Go to IT Tools at the top, and click on try Cloud Help desk.  
+- It will ask you questions “About Your Organization”. Fill in that information.
+- For Domain, it will need to be a unique name that is not taken.  Example: TestCompany86421 (Ref. Domain Sign-Up.jpg for more details.)
+- Ticketing system is set up.
+
+
