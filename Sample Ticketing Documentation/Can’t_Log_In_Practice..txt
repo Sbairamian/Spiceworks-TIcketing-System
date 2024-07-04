@@ -1,0 +1,29 @@
+User; Jack Warner
+Username: J.Warner 
+Hostname: JWarner-PC	
+Time: 12:01 pm
+Date: 4/11/2024
+Make and model: MAC Desktop - M1 chip
+serial number - ###############
+Operating System- MAC OS Sonoma
+
+Description: User called to IT Help Desk. User is having a problem logging in to his MAC that formerly belonged to his father. User tried resetting MAC. However, he can't log in due to FileVault from previous user locking the computer.
+
+User information, call back number- ###-###-#### 
+
+Resolution: User was able to log in.
+
+1. Asked user to boot up using internet from internet.  User puts in internet information. Computer loads up.
+2. Asked user to put in former user's log in information.  However, he nor his father know the password.
+3. User tries click on "Forgot Password".  User puts in father's email. But nothing is sent.
+4. Asked user to shut down the computer using the power button in the back.  
+5. When starting up the computer, user was asked to hold Command, Option, Shift, R.  User had boot up using Internet screen again. It didn't work. User asked to shut it down again.
+6. User was told to use shut down and hold Command, Option, R while turning on. User got same screen.
+7. User was told to shut down again and press command + Option + P + R while turning computer on.
+8. Father was next to user. Asked user to go to icloud.com. And to click on forgot password.  
+9. User was guided to click on "Forgot Password" and instructed put in father's cell phone to reset the password.
+10. Text arrived on father's phone. User reset the password on father's phone.
+11. User was now instructed to sign on to icloud.com using father's username and password.  
+12. User was instructed to go to the MAC on father's icloud account and to remove the MAC from his account.
+13. User now turned on MAC and booted up using the internet. User didn't get FileVault lock anymore and was able to put in his own email and password and started using the computer.
+14. Went over steps and what steps were attempted to be resolve the issue.

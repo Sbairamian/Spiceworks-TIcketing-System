@@ -1,0 +1,47 @@
+User; John Smith
+Username: J.Smith
+Hostname: JSmith-PC	
+Time: 2:25 pm
+Date: 3/20/2024
+Make and model: Dell Inspiron 3250 Laptop 
+serial number - 12345432134
+Operating System- Windows 11
+
+Description: User called to IT Help Desk. User is having a problem logging in to his school Account.  User is able to log through his phone but unable to log on his computer browswer.
+
+User information, call back number- 111-111-1111 , before remoting in- ask user to erase 
+
+Resolution - The issue was escalated to level 2 help desk support 
+
+
+Troubleshooting
+
+1. Login Authentication failed on School Website. (performed this at every applicable troubleshooting step)
+
+2. Had user allow pop-ups  by clicking on setting icon next to address bar
+
+3. Suggested to use different browser - Firefox.  
+
+4. Had user Go to network settings. Check information wifi. Saw wifi is unencrypted
+
+5. Had user Go to firewall setting and Turned off Windows firewall
+
+6. Before logging in again, had user right click and click inspect .Click on Network tab and there were no issues. Right click on Authentication failled.  Had right click on Inspect and there were no issues.
+
+7. Had user perform a network reset. Computer rebooted.
+
+8. Had user Go to advanced wifi-network policies. Go to Security. Went to advanced settings.  Had user go to Network and internet category. Then Manage known network. Forget Wifi Classroom1 - and Reconnect to wifi 
+
+9. Had user go to Windows- Account information and then to Accounts- Manage my accounts. Had user Click on email and account, then Add school accounts. Put in user name and password. User was able to get 2-factor authentication response.  However, user got an error message.
+
+10. Had user sign in a guest on the chrome browser. User got HTTP500 INternal Serever Error
+
+11. Had User Click on windows account. Type in Useradd, edit or remove other users on this device. Had User go to Add accounts, then to Add school account, and it Didn't allow. Had User make a local user account. User click "without microsoft accounts'. User created new paassword and local accounts. User attempted to login through the new local user account. Had user delete local User account after it didn't work. 
+
+12. Had user go to command prompt- and type in  ipconfig/release, ipconfig/renew.
+
+13. Had user go to Incognito window and log in to blackboard and it didn't work.
+
+14. Suggested user to call help desk for School.
+
+15. (Didn't do it however in regular circumstances) Went over steps and what steps were attempted to be resolve the issue. 
