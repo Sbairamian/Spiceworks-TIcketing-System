@@ -1,7 +1,7 @@
 ### Author Information
 
 Sevag Bairamian
-sbairamian@yahoo.com
+sevbairamian@gmail.com
 Last Update: 6/2024
 
 ###Overview
